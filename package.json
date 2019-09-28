@@ -2,7 +2,7 @@
   "name": "react-boiler-plate-for-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seunzone.github.io/TD-React-Challenge-Test-1",
+  "homepage": "https://mrwittman612.github.io/test-create-react-app-gh-pages",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
   }
 }
