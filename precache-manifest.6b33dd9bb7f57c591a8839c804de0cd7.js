@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf175e07d4292598977df0519a122e9b",
+    "revision": "cb75111f2e782a1b9debe0670d7466ee",
     "url": "/test-create-react-app-gh-pages/index.html"
   },
   {
-    "revision": "35a5c0372fce105fbb96",
+    "revision": "e728bedb0a40500c9bd9",
     "url": "/test-create-react-app-gh-pages/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-create-react-app-gh-pages/static/js/2.9c5440d4.chunk.js"
   },
   {
-    "revision": "35a5c0372fce105fbb96",
-    "url": "/test-create-react-app-gh-pages/static/js/main.8f54256d.chunk.js"
+    "revision": "e728bedb0a40500c9bd9",
+    "url": "/test-create-react-app-gh-pages/static/js/main.f09b950a.chunk.js"
   },
   {
     "revision": "d9e0a0a8f8286dff87c3",
