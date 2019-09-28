@@ -9,6 +9,10 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### `npm run deploy `
+
+Runs in the terminal, run this command npm run deploy OR yarn run deploy.This command pushes your built file to the gh-pages branch on your remote repository.
+
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
